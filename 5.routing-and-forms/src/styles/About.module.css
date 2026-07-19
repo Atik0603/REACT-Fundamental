@@ -1,0 +1,20 @@
+/* src/styles/About.module.css */
+
+.container {
+  padding: 60px 40px;
+  max-width: 700px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 36px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #fcf9f9;
+}
