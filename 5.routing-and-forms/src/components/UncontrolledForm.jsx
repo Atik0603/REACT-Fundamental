@@ -1,5 +1,3 @@
-// src/components/UncontrolledForm.jsx
-
 import { useRef, useState } from "react";
 
 function UncontrolledForm() {
